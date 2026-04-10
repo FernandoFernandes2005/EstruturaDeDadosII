@@ -38,9 +38,9 @@ Rubro-Negra -> 3
 
 ### CAIXEIRO-VIAJANTE COM 30 EXECUÇÕES
 Cidades -> Média -> Desvio Padrão
-   5    -> ~966  -> ~ 421
-   10   -> ~3603 -> ~1715
-   20   -> ~9990 -> ~507
+- 5    -> ~966  -> ~ 421
+- 10   -> ~3603 -> ~1715
+- 20   -> ~9990 -> ~507
 
 ### CONCLUSÃO
 As estruturas que são auto-balanceadas mostraram um desempenho estrutural melhor.
