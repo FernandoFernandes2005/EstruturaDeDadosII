@@ -44,6 +44,7 @@ Cidades -> Média -> Desvio Padrão
 
 ### CONCLUSÃO
 As estruturas que são auto-balanceadas mostraram um desempenho estrutural melhor.
+
 -----------------------------------
 
 ### PROJETO 2 - BUSCA
@@ -59,6 +60,7 @@ Implementações:
 
 ### CONCLUSÃO
 Algoritmos que apresentaram um desempenho significativamente superior em grandes quantidades de dados contém uma melhor complexidade assintótica.
+
 -----------------------------------
 
 ### PROJETO 3 - ORDENAÇÃO
