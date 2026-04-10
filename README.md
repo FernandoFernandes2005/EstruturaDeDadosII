@@ -88,11 +88,11 @@ Algoritmos que apresentaram um desempenho significativamente superior em grandes
 
 ### COMO EXECUTAR
 1- Acesse a pasta do projeto desejado:
-EX: **cd projetox**
+EX: cd projetox
 
-2- Compile com o comando **javac *.java**
+2- Compile com o comando javac *.java
 
-3- Execute com o comando **java Main**
+3- Execute com o comando java Main
 
 ------------------------------------
 
