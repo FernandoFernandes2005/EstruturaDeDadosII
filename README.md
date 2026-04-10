@@ -24,7 +24,7 @@ Repositório contendo os projetos desenvolvidos na disciplina de Estrutura de Da
         - Main.java
 ----------------------------------
 ### PROJETO 1 - ÁRVORES E CAIXEIRO - VIAJANTE
-Implementações:
+### Implementações:
 - Árvore Binária de Busca (BST)
 - Árvore AVL
 - Árvore Rubro-Negra
@@ -48,7 +48,7 @@ As estruturas que são auto-balanceadas mostraram um desempenho estrutural melho
 -----------------------------------
 
 ### PROJETO 2 - BUSCA
-Implementações:
+### Implementações:
 - Busca Sequencial
 - Busca Binária
 - Busca em Árvore (BST)
@@ -64,7 +64,7 @@ Algoritmos que apresentaram um desempenho significativamente superior em grandes
 -----------------------------------
 
 ### PROJETO 3 - ORDENAÇÃO
-Implementações:
+### Implementações:
 - Bubble Sort
 - Merge Sort
 
